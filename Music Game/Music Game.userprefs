@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Grass.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ground.cs" Line="8" Column="41" />
+      <File FileName="Assets/Scripts/NotesScript.cs" Line="87" Column="28" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="141" Column="3" />
+      <File FileName="Assets/Scripts/Grass.cs" Line="27" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
